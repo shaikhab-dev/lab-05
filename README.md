@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** Shaikh Abdul Karim
-- **CCID:** shaikhab
+- **Full Name:** `Shaikh Abdul Karim`
+- **CCID:** `shaikhab`
 
 Used help from claude and chatgpt for firebase setup, was confused
 
