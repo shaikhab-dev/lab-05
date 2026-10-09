@@ -2,10 +2,10 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Shaikh Abdul Karim
+- **CCID:** shaikhab
 
-## References and Resources
+Used help from claude and chatgpt for firebase setup, was confused
 
 List any resources used here, or simply put `N/A` if not applicable.
 
